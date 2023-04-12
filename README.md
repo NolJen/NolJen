@@ -1,11 +1,7 @@
-### Hi there 👋
+### Welcome
 
-🔭 I’m currently working on my own card game
-🌱 I’m currently learning how to become a better game designer
-👯 I’m looking to collaborate on anything that interests me
-🤔 I’m looking for help with art and audio design
-💬 Ask me about my card game
-📫 How to reach me: email
-😄 Pronouns: HE/HIM
-⚡ Fun fact: if have 2 differently shaped ears
+- I’m currently working on my own tabletop card game
+- Working on becoming a better game designer
+- Feel free to ask me about my card game or anything that relates to my intrests
+
 
